@@ -7,13 +7,7 @@ html {
 }
 
 body {
-    background-image: url('/Images/earth.jpg');
-    // Source - https://pixabay.com/en/earth-planet-world-globe-sun-1990298/
-    background-repeat: no-repeat;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    background: black;
     font-family: Helvetica, Arial, sans-serif;
     font-size: $m-size;
     line-height: 1.6;
